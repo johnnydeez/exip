@@ -1,3 +1,52 @@
 .current {
-    color: green;
+    color: orange;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+#main-container {
+    background-color: black; 
+    width: 62%;
+}
+
+#primary-content {
+    background-color: grey;
+}
+
+
+#site-header {
+    background-color: green;
+    text-align: center;
+}
+
+.post-content {
+    background-color: pink;
+}
+
+
+#site-title {
+    text-transform: uppercase;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+h1, h2 {
+    font-family: Oswald;
+}
+
+h1 {
+    font-weight: 700; 
+}
+
+h2 {
+    font-weight: 500;
 }
