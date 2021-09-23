@@ -77,23 +77,56 @@ h2 {
 	margin: 0 0;
 }
 
-h2 a:link, nav a:link {
+h2 a:link {
 	color: #121212;
     text-decoration: none;
 }
 
-h2 a:visited, nav a:visited {
+h2 a:visited {
 	color: #121212;
     text-decoration: none;
 }
+
+nav a:visited {
+    text-decoration: none;
+	color: #a8a8a8;
+}
+
 
 nav a:link {
 	margin-left: 10px;
 	margin-right: 10px;
 	font-family: 'Open Sans', sans-serif; 
-	font-size: 13px;
+	font-size: .9em;
+    text-decoration: none;
+	color: #a8a8a8;
 }
 
+nav .active-page {
+	color: #121212 !important;
+    font-weight: 700;
+}
+
+
+/* Settings for image grids stored in _layouts */
+.image-grid-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 0;
+    margin: 0 -4px;
+}
+
+.one-third-column {
+    flex: 33.3%;
+    max-width: 32.5%;
+    padding: 0 4px;
+}
+
+.image-grid-column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
 
 
 /* Settings to ensure youtube embed video takes up full width. */
