@@ -108,25 +108,44 @@ nav .active-page {
 }
 
 
+/***********************************************/
 /* Settings for image grids stored in _layouts */
-.image-grid-row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 0;
-    margin: 0 -4px;
+/***********************************************/
+
+
+/* Five image and three column image grid */
+.five-image-grid-three-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 7px;
 }
 
-.one-third-column {
-    flex: 33.3%;
-    max-width: 32.5%;
-    padding: 0 4px;
+.five-image-grid-three-col .grid-image-item {
+    min-height: 280px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.image-grid-column img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 100%;
+.five-image-grid-three-col > div:nth-of-type(1) {
+    grid-row: span 1;
+    grid-column: span 3;
 }
+
+.five-image-grid-three-col > div:nth-of-type(2) {
+    grid-row: span 2;
+    grid-column: span 1;
+    /*height: 560px;*/
+}
+
+
+.five-image-grid-three-col > div:nth-of-type(3) {
+	grid-column-start: 2;
+	grid-column-end: 4;
+	grid-row-start: 2;
+	grid-row-end: 2; 
+}
+
 
 
 /* Settings to ensure youtube embed video takes up full width. */

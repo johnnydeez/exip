@@ -14,10 +14,11 @@ I was told by the internet that this region was like an entire mini-Iceland. Tha
 
 The tragedy of this country, however, is that the roads are extremely narrow and only one lane each way. There are also very few turn-outs. The photos here are about one tenth of the ones I would have liked to take. I don’t really feel like I captured this place to its potential. But, I had three days. Did what I could.
 
+![line-of-docked-fishing-boats]({{ site.storageurl }}/DSCF0470.jpg){:class="img-responsive"}
+
 Finally, my new jam seems to be turning my camera sideways, placing a subject in the center-ish of the frame, and putting the camera low to the ground. Almost all of these shots were taken that way. This is either a sign of progress or regression. Jury is still out.
 
-
-![small-town-in-iceland]({{ site.storageurl }}/DSCF0558.jpg){:class="img-responsive"}
 {% include image-grid-snaefellsnes.html %}
+
 
 
