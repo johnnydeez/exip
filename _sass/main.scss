@@ -120,26 +120,26 @@ nav .active-page {
     grid-gap: 7px;
 }
 
-.five-image-grid-three-col .grid-image-item {
+.five-image-grid-three-col a {
     min-height: 280px;
     overflow: hidden;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.five-image-grid-three-col > div:nth-of-type(1) {
+.five-image-grid-three-col > a:nth-of-type(1) {
     grid-row: span 1;
     grid-column: span 3;
 }
 
-.five-image-grid-three-col > div:nth-of-type(2) {
+.five-image-grid-three-col > a:nth-of-type(2) {
     grid-row: span 2;
     grid-column: span 1;
     /*height: 560px;*/
 }
 
 
-.five-image-grid-three-col > div:nth-of-type(3) {
+.five-image-grid-three-col > a:nth-of-type(3) {
 	grid-column-start: 2;
 	grid-column-end: 4;
 	grid-row-start: 2;
