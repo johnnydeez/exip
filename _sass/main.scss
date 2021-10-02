@@ -7,23 +7,19 @@ body {
 }
 
 #main-container {
-    /*background-color: black; */
     width: 62%;
 	max-width: 1000px;
 }
 
-#primary-content {
-    /*background-color: grey; */
+@media only screen and (max-width: 1600px) {
+    
+    #main-container {
+        width: 92%; 
+    }
 }
-
 
 #site-header {
-    /*background-color: green; */
     text-align: center;
-}
-
-.post-content {
-    /*background-color: pink; */
 }
 
 .post-header {
@@ -114,32 +110,34 @@ nav .active-page {
 
 
 /* Five image and three column image grid */
-.five-image-grid-three-col {
+.three-image-grid-one {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1.5fr; 
     grid-gap: 7px;
 }
 
-.five-image-grid-three-col a {
-    min-height: 280px;
+.three-image-grid-one a {
+    min-height: 320px;
     overflow: hidden;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
-.five-image-grid-three-col > a:nth-of-type(1) {
+.three-image-grid-one > a:nth-of-type(1) {
     grid-row: span 1;
     grid-column: span 3;
 }
 
-.five-image-grid-three-col > a:nth-of-type(2) {
-    grid-row: span 2;
+.three-image-grid-one > a:nth-of-type(2) {
+    grid-row: span 1;
     grid-column: span 1;
     /*height: 560px;*/
 }
 
 
-.five-image-grid-three-col > a:nth-of-type(3) {
+.three-image-grid-one > a:nth-of-type(3) {
 	grid-column-start: 2;
 	grid-column-end: 4;
 	grid-row-start: 2;
