@@ -22,6 +22,10 @@ body {
     text-align: center;
 }
 
+.post-content p {
+    font-size: 1.2em;
+}
+
 .post-header {
     text-align: center;
 	margin-top: 120px;
@@ -108,15 +112,8 @@ nav .active-page {
 /* Settings for image grids stored in _layouts */
 /***********************************************/
 
-/* Five image and three column image grid */
-.three-image-grid-one {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1.5fr; 
-    grid-gap: 7px;
-}
 
-.three-image-grid-one a {
+.image-grid a {
     min-height: 320px;
     overflow: hidden;
     background-repeat: no-repeat;
@@ -124,24 +121,127 @@ nav .active-page {
     background-position: center;
 }
 
-.three-image-grid-one > a:nth-of-type(1) {
+
+/* Three image grid */
+.three-image-grid-top-pano {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1.5fr; 
+    grid-gap: 7px;
+}
+
+
+.three-image-grid-top-pano > a:nth-of-type(1) {
     grid-row: span 1;
     grid-column: span 3;
 }
 
-.three-image-grid-one > a:nth-of-type(2) {
+.three-image-grid-top-pano > a:nth-of-type(2) {
     grid-row: span 1;
     grid-column: span 1;
     /*height: 560px;*/
 }
 
 
-.three-image-grid-one > a:nth-of-type(3) {
+.three-image-grid-top-pano > a:nth-of-type(3) {
 	grid-column-start: 2;
 	grid-column-end: 4;
 	grid-row-start: 2;
 	grid-row-end: 2; 
 }
+
+
+/* Four image grid */
+.four-image-grid-zipper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr; 
+    grid-gap: 7px;
+}
+
+
+.four-image-grid-zipper > a:nth-of-type(1) {
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+.four-image-grid-zipper > a:nth-of-type(2) {
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.four-image-grid-zipper > a:nth-of-type(3) {
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.four-image-grid-zipper > a:nth-of-type(4) {
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+
+
+/* Two image grid */
+.two-image-grid-big-right {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr; 
+    grid-gap: 7px;
+}
+
+
+.two-image-grid-big-right > a:nth-of-type(1) {
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+.two-image-grid-big-right > a:nth-of-type(2) {
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+
+
+
+
+/* Five image grid */
+.five-image-grid-top-pano {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1.5fr; 
+    grid-gap: 7px;
+}
+
+
+.five-image-grid-top-pano > a:nth-of-type(1) {
+    grid-row: span 1;
+    grid-column: span 3;
+}
+
+.five-image-grid-top-pano > a:nth-of-type(2) {
+    grid-row: span 1;
+    grid-column: span 1;
+    /*height: 560px;*/
+}
+
+.five-image-grid-top-pano > a:nth-of-type(3) {
+	grid-column-start: 2;
+	grid-column-end: 4;
+	grid-row-start: 2;
+	grid-row-end: 2; 
+}
+
+.five-image-grid-top-pano > a:nth-of-type(4) {
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.five-image-grid-top-pano > a:nth-of-type(5) {
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
 
 
 /* Settings to ensure youtube embed video takes up full width. */
