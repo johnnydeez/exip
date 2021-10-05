@@ -5,7 +5,7 @@ author: john
 catagories: [Photography, Travel]
 ---
 
-![waterfall]({{ site.storageurl }}/DSCF0899.jpg){:class="img-responsive"}
+![waterfall]({{ site.storageurl }}/DSCF0899.jpg){:class="img-responsive" loading="lazy"}
 
 Well, this is it. What I feel like was my best photo from Iceland.
 
@@ -24,5 +24,5 @@ This weekend, I’m off to Berlin. We’ll see what transpires there and how lon
 I try to remember when I travel that there are a lot of extreme ups and downs. Definitely more so than ‘normal’ life (whatever that is).
 
 
-![rooftop-in-akureyri]({{ site.storageurl }}/DSCF0894.jpg){:class="img-responsive"}
-![houses-in-reykjavik]({{ site.storageurl }}/DSCF0236.jpg){:class="img-responsive"}
+![rooftop-in-akureyri]({{ site.storageurl }}/DSCF0894.jpg){:class="img-responsive" loading="lazy"}
+![houses-in-reykjavik]({{ site.storageurl }}/DSCF0236.jpg){:class="img-responsive" loading="lazy"}
