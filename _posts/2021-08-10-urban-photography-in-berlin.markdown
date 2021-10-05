@@ -6,7 +6,7 @@ catagories: [Photography, Travel]
 ---
 
 
-![oberbaumbrucke-bridge]({{ site.storageurl }}/DSCF1216.jpg){:class="img-responsive"}
+![oberbaumbrucke-bridge]({{ site.storageurl }}/DSCF1216.jpg){:class="img-responsive" loading="lazy"}
 
 Well, I have been back in the U.S. for about a week now. Finally got some time to go over all of the images I shot in Berlin. So, I figured it was time for a post.
 
@@ -20,9 +20,9 @@ In the end, I got a few images that I am happy with, but nothing that ranks amon
 
 Headed to Colorado Springs this week to check out an RV, then finally back to LA. Hope you all are well.
 
-![yellow-subway]({{ site.storageurl }}/DSCF1484.jpg){:class="img-responsive"}
-![old-church]({{ site.storageurl }}/DSCF1108.jpg){:class="img-responsive"}
-![glass-train-station]({{ site.storageurl }}/DSCF1375.jpg){:class="img-responsive"}
+![yellow-subway]({{ site.storageurl }}/DSCF1484.jpg){:class="img-responsive" loading="lazy"}
+![old-church]({{ site.storageurl }}/DSCF1108.jpg){:class="img-responsive" loading="lazy"}
+![glass-train-station]({{ site.storageurl }}/DSCF1375.jpg){:class="img-responsive" loading="lazy"}
 
 {% include image-grid-urban-berlin.html %}
 

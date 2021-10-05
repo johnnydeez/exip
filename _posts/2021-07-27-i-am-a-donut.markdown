@@ -5,7 +5,7 @@ author: john
 catagories: [Photography, Travel]
 ---
 
-![berlin-architecture]({{ site.storageurl }}/DSCF1136.jpg){:class="img-responsive"}
+![berlin-architecture]({{ site.storageurl }}/DSCF1136.jpg){:class="img-responsive" loading="lazy"}
 
 Did you know that’s an urban legend. JFK never said that. Well, he said he was a Berliner, but that was indeed the correct way of putting it. I guess it was quite a few years later that the story ran suggesting he had called himself a donut. Which he did not actually do.
 

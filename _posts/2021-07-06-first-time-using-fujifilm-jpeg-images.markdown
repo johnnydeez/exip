@@ -5,7 +5,7 @@ author: john
 catagories: [Photography, Travel]
 ---
 
-![ship-in-olafsvik]({{ site.storageurl }}/DSCF0466.jpg){:class="img-responsive"}
+![ship-in-olafsvik]({{ site.storageurl }}/DSCF0466.jpg){:class="img-responsive" loading="lazy"}
 
 
 Even though I’ve been editing my images in Lightroom for forever, I decided to start playing around with my Fujifilm camera’s jpeg output. I have to say, I kinda get why people rave about this now; the colors and tonality are really awesome.
