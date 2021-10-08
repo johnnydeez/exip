@@ -3,4 +3,6 @@
 - name: About
   link: /about.html
 - name: Images
-  link: /Images.html
+  link: /images.html
+- name: Archive
+  link: /archive.html
