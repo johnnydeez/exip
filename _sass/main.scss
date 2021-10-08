@@ -39,6 +39,24 @@ body {
 	margin: 0 0;
 }
 
+.pagination {
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 1em;
+    word-spacing: .1em; 
+    text-align: center;
+    padding-top: .3em;
+    padding-bottom: .3em;
+    margin-bottom: 2em;
+}
+
+
+
+.pagination a:link, .pagination a:visited {
+	color: #1F99DE;
+}
+
+
+
 #site-title {
     text-transform: uppercase;
 	color: #121212;
