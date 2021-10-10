@@ -9,6 +9,7 @@ body {
 #main-container {
     width: 62%;
 	max-width: 1000px;
+    min-height: 1000px;
 }
 
 @media only screen and (max-width: 1600px) {
@@ -50,7 +51,6 @@ body {
 }
 
 
-
 .pagination a:link, .pagination a:visited {
 	color: #1F99DE;
 }
@@ -89,6 +89,7 @@ h1 {
 }
 
 h2 {
+    text-align: center; 
     font-weight: 400;
 	font-size: 36px;
 	color: #121212;
@@ -128,6 +129,50 @@ nav .active-page {
     font-weight: 700;
 }
 
+.footer {
+	font-family: 'Open Sans', sans-serif; 
+	color: #a8a8a8;
+    font-size: .9em; 
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+#post-archive {
+	font-family: 'Open Sans', sans-serif; 
+	color: #121212;
+    text-align: center;    
+    padding-top: 2em;
+}
+
+#post-archive h2 {
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+}
+
+#post-archive h3 {
+    padding: .35em 0;
+}
+
+#post-archive h3 a:link {
+	color: #121212;
+    text-decoration: none;
+}
+
+#post-archive h3 a:visited {
+	color: #121212;
+    text-decoration: none;
+}
+
+#post-archive h3 a:hover {
+	color: #121212;
+    text-decoration: underline;
+}
+
+#post-archive .archive-date {
+	color: #a8a8a8;
+    font-size: .9em; 
+    font-weight: 400;
+}
 
 /***********************************************/
 /* Settings for image grids stored in _layouts */
@@ -265,8 +310,8 @@ nav .active-page {
 .infinite-portrait-image-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-rows: 35%;
-    /*grid-template-rows: 2fr 2fr; */
+    grid-auto-rows: minmax(520px, auto); 
+    /*grid-auto-rows: 35%; WORKS */
     grid-gap: 7px;
 }
 
@@ -274,7 +319,8 @@ nav .active-page {
      
     .infinite-portrait-image-grid {
         grid-template-columns: 1fr; 
-        grid-auto-rows: 30%; 
+        grid-auto-rows: minmax(1200px, auto); 
+        /*grid-auto-rows: 30%; */
     }
 }
 
@@ -282,7 +328,8 @@ nav .active-page {
 
     .infinite-portrait-image-grid {
         grid-template-columns: 1fr; 
-        grid-auto-rows: 25%; 
+        grid-auto-rows: minmax(900px, auto); 
+        /*grid-auto-rows: 25%; */
     }
 }
 
