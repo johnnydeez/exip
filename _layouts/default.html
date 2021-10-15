@@ -6,12 +6,11 @@
         <meta
             http-equiv="Content-Security-Policy" 
             content="
-                default-src 'self';
+                default-src  {{ site.storageurl }} 'self';
                 img-src {{ site.storageurl }} 'self';
-                font-src  https://fonts.googleapis.com https://fonts.gstatic.com 'self';
-                style-src https://fonts.googleapis.com 'self';
+                font-src {{ site.storageurl }} https://fonts.googleapis.com https://fonts.gstatic.com 'self';
+                style-src {{ site.storageurl }} https://fonts.googleapis.com 'self' 'unsafe-inline';
                 frame-src https://www.youtube.com 'self';"> 
-         
         <title>{{ page.title }}</title>	
  		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
