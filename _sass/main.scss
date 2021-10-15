@@ -40,6 +40,11 @@ body {
 	margin: 0 0;
 }
 
+.post-header h1 {
+    font-weight: 400;
+    font-size: 2.75em;
+}
+
 .pagination {
     font-family: 'Open Sans', sans-serif; 
     font-size: 1em;
@@ -108,7 +113,7 @@ h2 a:visited {
 
 nav a:visited {
     text-decoration: none;
-	color: #a8a8a8;
+	color: #666666;
 }
 
 nav {
