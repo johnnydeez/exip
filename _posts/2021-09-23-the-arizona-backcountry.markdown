@@ -30,8 +30,20 @@ Couldn’t help it though, the area was gorgeous, and Zach discovered he could l
 
 ![truck-on-trail]({{ site.storageurl }}/DSCF0561.jpg){:class="img-responsive" loading="lazy"}
 
-{% include image-grid-sedona-drone.html %}
-
+<div class="two-image-grid-big-right image-grid">
+    <a 
+        href="{{ site.storageurl }}/DSCF0604.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener" 
+        style='background-image: url("{{ site.storageurl }}/DSCF0604.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF0635.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF0635.jpg");'>
+    </a>
+</div>
 
 As late afternoon rolled around, we rambled our way off the trail, ate some sad burritos, and began our trek further north and up above 7,000 ft. 
 
@@ -60,7 +72,38 @@ When my friends returned we were assaulted by two things: mosquitoes and a brill
 
 ![truck-on-trail]({{ site.storageurl }}/DSCF1969.jpg){:class="img-responsive" loading="lazy"}
 
-{% include image-grid-coconino-rim.html %}
+<div class="five-image-grid-top-pano image-grid">
+    <a 
+        href="{{ site.storageurl }}/DSCF1902.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener" 
+        style='background-image: url("{{ site.storageurl }}/DSCF1902.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1860.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1860.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1837.jpg"
+        target="_blank"
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1837.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1959.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1959.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1807.jpg"
+        target="_blank"
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1807.jpg");'>
+    </a>
+</div>
 
 More drones were flown. Beers were consumed, and we spent the evening having a nice chat by the fire. Eventually, we wandered off to bed in our tents. Naturally, I wondering if a bear might attack me in the night, as I always do in these kinds of places. But per the usual, that never materialized. Instead, we awoke in the morning without fanfare, and made the 8 hour trip home. Another beautiful drive.
 

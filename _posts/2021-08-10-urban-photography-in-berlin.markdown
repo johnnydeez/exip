@@ -24,6 +24,30 @@ Headed to Colorado Springs this week to check out an RV, then finally back to LA
 ![old-church]({{ site.storageurl }}/DSCF1108.jpg){:class="img-responsive" loading="lazy"}
 ![glass-train-station]({{ site.storageurl }}/DSCF1375.jpg){:class="img-responsive" loading="lazy"}
 
-{% include image-grid-urban-berlin.html %}
+<div class="four-image-grid-zipper image-grid">
+    <a 
+        href="{{ site.storageurl }}/DSCF1063.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener" 
+        style='background-image: url("{{ site.storageurl }}/DSCF1063.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1514.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1514.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1524.jpg"
+        target="_blank"
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1524.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1545.jpg"
+        target="_blank"
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF1545.jpg");'>
+    </a>
 
-
+</div>
