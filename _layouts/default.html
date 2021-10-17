@@ -11,7 +11,8 @@
                 font-src {{ site.storageurl }} https://fonts.googleapis.com https://fonts.gstatic.com 'self';
                 style-src {{ site.storageurl }} https://fonts.googleapis.com 'self' 'unsafe-inline';
                 frame-src https://www.youtube.com 'self';
-				script-src https://www.googletagmanager.com 'self' 'unsafe-inline';"> 
+				script-src https://www.googletagmanager.com 'self' 'unsafe-inline';
+                connect-src https://www.google-analytics.com 'self';"> 
         <title>{{ page.title }}</title>	
  		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BKQLH4RBZP"></script>
