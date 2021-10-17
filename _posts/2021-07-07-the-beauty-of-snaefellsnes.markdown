@@ -18,7 +18,27 @@ The tragedy of this country, however, is that the roads are extremely narrow and
 
 Finally, my new jam seems to be turning my camera sideways, placing a subject in the center-ish of the frame, and putting the camera low to the ground. Almost all of these shots were taken that way. This is either a sign of progress or regression. Jury is still out.
 
-{% include image-grid-snaefellsnes.html %}
+<div class="three-image-grid-top-pano image-grid">
+    <a 
+        href="{{ site.storageurl }}/DSCF0558.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener" 
+        style='background-image: url("{{ site.storageurl }}/DSCF0558.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF0833.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF0833.jpg");'>
+    </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF0444.jpg"
+        target="_blank"
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/DSCF0444.jpg");'>
+    </a>
+</div>
+
 
 
 
