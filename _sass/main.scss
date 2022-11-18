@@ -115,6 +115,10 @@ h3 {
     margin: 2em 0 0 0;
 }
 
+h4 {
+    font-size:1.17em;
+}
+
 nav a:visited {
     text-decoration: none;
 	color: #666666;
@@ -154,8 +158,8 @@ nav .active-page {
 }
 
 #post-archive {
-	font-family: 'Open Sans', sans-serif; 
-	color: #121212;
+    font-family: 'Open Sans', sans-serif;
+    color: #121212;
     text-align: center;    
     padding-top: 2em;
 }
@@ -165,21 +169,21 @@ nav .active-page {
     padding-bottom: 1em;
 }
 
-#post-archive h3 {
+#post-archive h4 {
     padding: .35em 0;
 }
 
-#post-archive h3 a:link {
+#post-archive h4 a:link {
 	color: #121212;
     text-decoration: none;
 }
 
-#post-archive h3 a:visited {
+#post-archive h4 a:visited {
 	color: #121212;
     text-decoration: none;
 }
 
-#post-archive h3 a:hover {
+#post-archive h4 a:hover {
 	color: #121212;
     text-decoration: underline;
 }
@@ -191,7 +195,7 @@ nav .active-page {
 }
 
 @media only screen and (max-width: 900px) {
-    #post-archive h3 {
+    #post-archive h4 {
         font-size: 1em; 
     }
 
