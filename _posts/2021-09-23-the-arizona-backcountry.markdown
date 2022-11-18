@@ -51,7 +51,7 @@ After a few hours of hunting we found a campsite near a meadow. I hit my gas tan
 
 I do this a lot: I sit in a chair looking around at my incredible surroundings while thinking about how I should take some photos. Then I continue to sit in the chair. 
 
-Not all was lost though, from that chair I got a photo of Zach and his dog in another chair—score.i
+Not all was lost though, from that chair I got a photo of Zach and his dog in another chair—score.
 
 ![truck-on-trail]({{ site.storageurl }}/DSCF1579.jpg){:class="img-responsive" loading="lazy"}
 
