@@ -16,7 +16,7 @@ What I did not remember accurately from last time, was the reality of flying for
 
 ![777-narita-landing]({{ site.storageurl }}/777landing.gif){:class="gif" loading="lazy"}
 
-Once through imigration though, I managed to wake up a bit and enjoy the train ride into Tokyo. 
+Once through immigration though, I managed to wake up a bit and enjoy the train ride into Tokyo. 
 
 ![tokyo-city-day]({{ site.storageurl }}/tokyodaycity.jpg){:class="img-responsive" loading="lazy"}
 
