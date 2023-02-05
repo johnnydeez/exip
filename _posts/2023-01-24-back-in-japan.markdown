@@ -2,7 +2,7 @@
 layout: post
 title: Back In Japan
 author: john
-catagories: [Photography, Travel, Art]
+catagories: [Photography, Travel, Japan]
 ---
 
 
