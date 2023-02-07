@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back In Japan
+title: Back in Japan
 author: john
 catagories: [Photography, Travel, Japan]
 ---
