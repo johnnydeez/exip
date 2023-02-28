@@ -36,7 +36,7 @@ plugins:
   - jekyll-paginate
 
 # Address where images and other assets for the site are stored
-storageurl: https://assets.experimentsinphotography.com
+storageurl: https://assets.johnneil.blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
