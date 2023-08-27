@@ -11,7 +11,7 @@ It's hard to believe I've been on the road for almost a month already, first to 
 
 Due to the heat and humidity, the days here feel long right now. I try and find something to do first thing in the morning, a long walk through a park or to breakfast, some tourist exhibit... something like that. Then, I tend to hole up for the afternoon and work. The schedule has been kind of perfect. I get a little exercise in the morning while the clouds build up and prepare themselves to downpour. Then, while I sit on my computer in the afternoon, the sky drenches the world on the other side of the window. 
 
-However, this trip has been primarily characterized by spending time outside at night after most of the heat and rain have concluded. Thus, pretty much all of the photographs are after dark.
+However, this trip has been primarily characterized by spending time outside, at night, after most of the heat and rain have concluded. Thus, pretty much all of the photographs are after dark.
 
 That's turned out to be a gift, though, as both Tokyo and Taipei are particularly photogenic after the sun goes down. 
 Also, I'm not the only one who has developed this pattern; the locals also seem to swarm the streets after 5 p.m.
