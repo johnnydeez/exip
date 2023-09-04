@@ -20,7 +20,7 @@ Also, I'm not the only one who has developed this pattern; the locals also seem 
 
 ### Cafe Latte - カフェラテ - 拿铁咖啡 
 
-One thing I am particularly proud of on this trip, however, is that I faced my fear of ordering things in Japanese and braved some cafes. I am proud to say that I managed it more or less, even answering some of the questions right in Japanese (emphasis on some). This also opened up a whole new world for me, work-wise, as it enabled me to get out of the AirBnB and spend time with my laptop in cafes. Make no mistake, I don't SPEAK Japanese. But I'm really glad some of my language-learning efforts have opened the door, even just a little wider.
+One thing I am particularly happy about on this trip, however, is that I faced my fear of ordering things in Japanese and braved some cafes. I am proud to say that I managed it more or less, even answering some of the questions right in Japanese (emphasis on some). This also opened up a whole new world for me, work-wise, as it enabled me to get out of the AirBnB and spend time with my laptop in cafes. Make no mistake, I don't SPEAK Japanese. But I'm really glad some of my language-learning efforts have opened the door, even just a little wider.
 
 I tried to carry over this practice to Taiwan. But uh, let's just say the results have been more—mixed. From Starbucks I can consistently walk away with... a latte—so that's cool.
  
@@ -51,7 +51,7 @@ It might be hot, it might be cold, it might be for here or to go. Total crap-sho
 
 ![x-e3]({{ site.storageurl }}/x_e3_desk.jpg){:class="img-responsive" loading="lazy"}
 
-One thing I've really been enjoying is shooting with the little X-E3 I picked up before I left. I decided to pair things down on this trip and only travel with a small camera and one pancake lens. While I am missing some of my other lenses a bit, I always find that limiting my equipment is often freeing and enjoyable. 
+One thing I've really been enjoying is shooting with the little X-E3 I picked up before I left. I decided to pare things down on this trip and only travel with a small camera and one pancake lens. While I am missing some of my other lenses a bit, I always find that limiting my equipment is often freeing and enjoyable. 
 
 It's all just for fun anyway, so there's no need to obsess over the photographs I missed with this more limited kit.
 
