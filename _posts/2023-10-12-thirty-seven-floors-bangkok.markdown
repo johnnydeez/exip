@@ -5,7 +5,7 @@ author: john
 catagories: [Photography, Travel, Thailand]
 ---
 
-I've written this post a half dozen times.
+I've written this post a half-dozen times.
 
 I just don't really know where to start or—how to. My time in Thailand was unlike any other travel experience I've had.
 
