@@ -1,7 +1,9 @@
 '''
 pip install pillow
 pip install exif
+pip install pathlib
 
+windoows = python -m pip install packageNamee
 Notes:
 
 Some portrait-oriented images will come out flipped.
