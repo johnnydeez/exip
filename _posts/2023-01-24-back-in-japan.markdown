@@ -58,7 +58,7 @@ Lastly, we bought tickets to some sumo wrestling. And while I didn't know what t
 
 On our second to last evening, I wanted to find some good raised views of the city, so I did some research and convinced Thomas to wander around with me taking elevators to the tops of buildings. This turned out to be a really interesting decision as we found a cool place to see the city lights. Conveniently, there were also a number of fancy restaurants on the top floor of the building, so we decided to be brave and try one out. (Neither Thomas or I speak that much Japanese. Thomas speaks the most). 
 
-<div class="three-image-grid-top-pano image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/tokyonightcity.jpg" 
         target="_blank" 

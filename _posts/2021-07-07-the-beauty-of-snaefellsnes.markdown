@@ -18,7 +18,7 @@ The tragedy of this country, however, is that the roads are extremely narrow and
 
 Finally, my new jam seems to be turning my camera sideways, placing a subject in the center-ish of the frame, and putting the camera low to the ground. Almost all of these shots were taken that way. This is either a sign of progress or regression. Jury is still out.
 
-<div class="three-image-grid-top-pano image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/DSCF0558.jpg" 
         target="_blank" 

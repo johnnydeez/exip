@@ -47,13 +47,7 @@ If you ever get the chance to visit Japan, go.
 
 ![latern-and-utilities-on-wall]({{ site.storageurl }}/lantern_and_utility.jpg){:class="img-responsive" loading="lazy"}
 
-<div class="five-image-grid-top-pano image-grid">
-    <a 
-        href="{{ site.storageurl }}/shinjuku_west_street.jpg" 
-        target="_blank" 
-        rel="noreferrer noopener" 
-        style='background-image: url("{{ site.storageurl }}/shinjuku_west_street.jpg");'>
-    </a>
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/closed_escalator.jpg" 
         target="_blank" 

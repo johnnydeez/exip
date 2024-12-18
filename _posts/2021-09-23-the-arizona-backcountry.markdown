@@ -30,7 +30,7 @@ Couldn’t help it though, the area was gorgeous, and Zach discovered he could l
 
 ![truck-on-trail]({{ site.storageurl }}/DSCF0561.jpg){:class="img-responsive" loading="lazy"}
 
-<div class="two-image-grid-big-right image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/DSCF0604.jpg" 
         target="_blank" 
@@ -70,9 +70,9 @@ I did make some time for an Instagram-style selfie though. It may look as if I a
 
 When my friends returned we were assaulted by two things: mosquitoes and a brilliant sunset. The mosquitoes are why my friends are dressed like actors from Monty Python and The Holy Grail. The sunset is why I ended up getting a bunch of photographs I am really happy with from our trip.
 
-![truck-on-trail]({{ site.storageurl }}/DSCF1969.jpg){:class="img-responsive" loading="lazy"}
+![sunset]({{ site.storageurl }}/DSCF1969.jpg){:class="img-responsive" loading="lazy"}
 
-<div class="five-image-grid-top-pano image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/DSCF1902.jpg" 
         target="_blank" 
@@ -103,6 +103,13 @@ When my friends returned we were assaulted by two things: mosquitoes and a brill
         rel="noreferrer noopener"
         style='background-image: url("{{ site.storageurl }}/DSCF1807.jpg");'>
     </a>
+    <a 
+        href="{{ site.storageurl }}/DSCF1969.jpg" 
+        target="_blank" 
+        rel="noreferrer noopener" 
+        style='background-image: url("{{ site.storageurl }}/DSCF1969.jpg");'>
+    </a>
+
 </div>
 
 More drones were flown. Beers were consumed, and we spent the evening having a nice chat by the fire. Eventually, we wandered off to bed in our tents. Naturally, I wondering if a bear might attack me in the night, as I always do in these kinds of places. But per the usual, that never materialized. Instead, we awoke in the morning without fanfare, and made the 8 hour trip home. Another beautiful drive.
