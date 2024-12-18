@@ -24,7 +24,7 @@ Headed to Colorado Springs this week to check out an RV, then finally back to LA
 ![old-church]({{ site.storageurl }}/DSCF1108.jpg){:class="img-responsive" loading="lazy"}
 ![glass-train-station]({{ site.storageurl }}/DSCF1375.jpg){:class="img-responsive" loading="lazy"}
 
-<div class="four-image-grid-zipper image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/DSCF1063.jpg" 
         target="_blank" 

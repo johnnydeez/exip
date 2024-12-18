@@ -20,7 +20,7 @@ All images in this article were taken with the X-T4 and edited by me in either L
 ### Image Quality
 The big dark secret that almost no one seems to mention when it comes to image quality with digital cameras is this: virtually any professional or prosumer digital camera made in the last 7 years is going to provide you with extremely high-quality images. I have a large, 24-inch print on my wall from a 12-megapixel Panasonic camera I bought 8 years ago, and it looks fantastic. So, if you are concerned about the 26-megapixel sensor in the X-T4 not being sufficient for you, please don't stress about it. I take photos with it and commonly crop them down by 30% to 40% while still walking away with high-resolution (or high enough) images.
 
-<div class="two-image-grid-big-right image-grid">
+<div class="image-grid">
  
     <a
         href="{{ site.storageurl }}/five_storied_pagoda_in_asakusa_tokyo.jpg"
@@ -83,13 +83,7 @@ I shoot landscapes, urban environments, night photos and travel photography. And
 For me, Fuji just checks most of the boxes. It's an easy camera to take around the world and for the most part, it stays out of my way and lets me take the photos I enjoy. Which, after all, is what it's all about.
 
 
-<div class="five-image-grid-top-pano image-grid">
-    <a
-        href="{{ site.storageurl }}/DSCF1902.jpg"
-        target="_blank"
-        rel="noreferrer noopener"
-        style='background-image: url("{{ site.storageurl }}/DSCF1902.jpg");'>
-    </a>
+<div class="image-grid">
     <a
         href="{{ site.storageurl }}/DSCF1860.jpg"
         target="_blank"

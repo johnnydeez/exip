@@ -26,7 +26,7 @@ I tried to carry over this practice to Taiwan. But uh, let's just say the result
  
 It might be hot, it might be cold, it might be for here or to go. Total crap-shoot. Even though I keep looking up how to say these things and order in Chinese, the language is quite challenging to pronounce. Clearly, I am not well understood. It's pretty funny most of the time.
 
-<div class="three-image-grid-top-pano image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/abstract_tokyo_night.jpg" 
         target="_blank" 

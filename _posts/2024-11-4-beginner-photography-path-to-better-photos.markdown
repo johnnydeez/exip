@@ -29,13 +29,7 @@ I was a fitness instructor for a number of years, and something I would see my c
 The clients that progressed the slowest were usually the ones who spent the least amount of time training. The ones who excelled and broke their own records week after week and month after month were the people who we saw in the gym multiple times every week. The direct correlation of how much time people spent working out and how they progressed, became quite obvious to me.
 
 
-<div class="five-image-grid-top-pano image-grid">
-    <a 
-        href="{{ site.storageurl }}/shop_in_namba.jpg" 
-        target="_blank" 
-        rel="noreferrer noopener" 
-        style='background-image: url("{{ site.storageurl }}/shop_in_namba.jpg");'>
-    </a>
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/bike_rider_front_of_restaurant.jpg" 
         target="_blank" 

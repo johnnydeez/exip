@@ -14,7 +14,7 @@ Detailing it here feels like it would somehow cheapen the experience. So, instea
 ![lightning-over-bangkok]({{ site.storageurl }}/lightning_over_bkk.gif){:class="gif" loading="lazy"}
 I sat 37 floors above Bangkok, watching a storm roll in over The Bay of Thailand.
 
-<div class="three-image-grid-top-pano image-grid">
+<div class="image-grid">
     <a 
         href="{{ site.storageurl }}/ideo_plants.jpg" 
         target="_blank" 
