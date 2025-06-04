@@ -3,11 +3,11 @@ pip install pillow
 pip install exif
 pip install pathlib
 
-windoows = python -m pip install packageNamee
+windows = python -m pip install packageName
 Notes:
 
 Some portrait-oriented images will come out flipped.
-The fix would involve looking at EXIF data and adusting.
+The fix would involve looking at EXIF data and adjusting.
 Unfortunately, EXIF is not always available in the jpgs
 so I will spend a lot less time flipping back a few images
 in the file manager than I would writing a fix.
@@ -25,18 +25,15 @@ from PIL import Image
 
 home = str(Path.home())
 # UNIX
-read_directory = (home + r'/Git/exip/_images/original')
-write_directory = (home + r'/Git/exip/_images/compressed')
+read_directory = os.path.join(home, 'Git', 'exip', '_images', 'original')
+write_directory = os.path.join(home, 'Git', 'exip', '_images', 'compressed')
 
-already_compressed_files = [f for f in listdir(write_directory) if isfile(join(write_directory, f))]	
+already_compressed_files = [f for f in listdir(write_directory) if isfile(join(write_directory, f))]
 
 for filename in os.listdir(read_directory):
     if (filename.endswith('.jpg') or filename.endswith('.png')) and (filename not in already_compressed_files):
         # Gather path info
-        if os.name == 'nt':
-            image_path = str(read_directory + '\\' + '\\' + filename) # Weird Windows file path garbage
-        else: 
-            image_path = str(read_directory + '/' + filename)
+        image_path = os.path.join(read_directory, filename)
         print(image_path)
         img = Image.open(image_path)
 
@@ -45,16 +42,12 @@ for filename in os.listdir(read_directory):
         height_pixels = img.size[1]
         adjusted_width_pixels = math.ceil((int(img.size[0]) / 2))
         adjusted_height_pixels = math.ceil((int(img.size[1]) / 2))
-        img = img.resize((adjusted_width_pixels, adjusted_height_pixels), Image.ANTIALIAS)
-    
+        img = img.resize((adjusted_width_pixels, adjusted_height_pixels), Image.LANCZOS)
+
         # Write new compressed image
-        if os.name == 'nt':
-            write_path = str(write_directory + '\\' + '\\' + filename) # Weird Windows file path garbage
-        else: 
-            write_path = str(write_directory + '/' + filename)
+        write_path = os.path.join(write_directory, filename)
         print('writing image...')
         print(filename)
         img.save(write_path, optimize=True, quality=75)
     else:
         continue
-
