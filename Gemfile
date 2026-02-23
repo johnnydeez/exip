@@ -46,3 +46,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Fix for scss math.div error
 # Removed this for now and letting github handle the sass-converter version. Seeing if that works.
 #gem "jekyll-sass-converter", "~> 2.0"
+gem "csv"
+gem "erb"
