@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    background-color: #f0dbbc;
 }
 
 #main-container {
@@ -35,7 +36,7 @@ body {
 
 .post-header p {
 	font-size: .9em;
-	color: #a8a8a8;
+    color: #403c3b;
 	padding: 0 0;
 	margin: 0 0;
 }
@@ -46,7 +47,7 @@ body {
 }
 
 .pagination {
-    font-family: 'Open Sans', sans-serif; 
+    font-family: "Roboto Mono", monospace;	
     font-size: 1em;
     word-spacing: .1em; 
     text-align: center;
@@ -62,18 +63,19 @@ body {
 
 #site-title {
     text-transform: uppercase;
-	color: #121212;
+	color: #403c3b;
 	letter-spacing: .3em;
 }
 
 #site-title h1 {
-	font-size: 47px;
-}
+	font-size: 102px;
+    margin-bottom: .25em;
+  }
 
 body p {
-	font-family: 'Open Sans', sans-serif; 
-	line-height: 2.1em;
-	color: #121212;
+    font-family: "Roboto Mono", monospace;	
+    line-height: 2.1em;
+	color: #2d2a29;
 	padding-top: .3em;
 	padding-bottom: .3em;
 }
@@ -89,34 +91,34 @@ img.gif {
 
 
 h1, h2, h3 {
-    font-family: 'Oswald', sans-serif;
+  font-family: "VT323", monospace;
 }
 
 h1 {
-    font-weight: 700; 
+    font-weight: 600; 
 }
 
 h2 {
     text-align: center; 
-    font-weight: 400;
-	font-size: 36px;
-	color: #121212;
+    font-weight: 500;
+	font-size: 62px;
+	color: #403c3b;
 	margin: 0 0;
 }
 
 h2 a:link {
-	color: #121212;
+	color: #403c3b;
     text-decoration: none;
 }
 
 h2 a:visited {
-	color: #121212;
+	color: #403c3b;
     text-decoration: none;
 }
 
 h3 {
-    font-size: 28px;
-    color: #121212;
+    font-size: 33px;
+    color: #403c3b;
     margin: 2em 0 0 0;
 }
 
@@ -136,14 +138,14 @@ nav {
 nav a:link {
 	margin-left: 10px;
 	margin-right: 10px;
-	font-family: 'Open Sans', sans-serif; 
+    font-family: "Roboto Mono", monospace;	
 	font-size: .9em;
     text-decoration: none;
 	color: #666666;
 }
 
 nav .active-page {
-    color: #121212 !important;
+    color: #403c3b !important;
     font-weight: 700;
 }
 
@@ -155,16 +157,16 @@ nav .active-page {
 }
 
 .footer {
-	font-family: 'Open Sans', sans-serif; 
-	color: #a8a8a8;
+    font-family: "Roboto Mono", monospace;	
+	color: #403c3b;
     font-size: .9em; 
     padding-top: 2em;
     padding-bottom: 2em;
 }
 
 #post-archive {
-    font-family: 'Open Sans', sans-serif;
-    color: #121212;
+    font-family: "Roboto Mono", monospace;	
+    color: #403c3b;
     text-align: center;    
     padding-top: 2em;
 }
@@ -179,22 +181,22 @@ nav .active-page {
 }
 
 #post-archive h4 a:link {
-	color: #121212;
+	color: #403c3b;
     text-decoration: none;
 }
 
 #post-archive h4 a:visited {
-	color: #121212;
+	color: #403c3b;
     text-decoration: none;
 }
 
 #post-archive h4 a:hover {
-	color: #121212;
+	color: #403c3b;
     text-decoration: underline;
 }
 
 #post-archive .archive-date {
-	color: #a8a8a8;
+	color: #403c3b;
     font-size: .9em; 
     font-weight: 400;
 }
@@ -212,7 +214,7 @@ nav .active-page {
 /* Contact Form Styles */
 
 #contact-form {
-    font-family: 'Open Sans', sans-serif; 
+    font-family: "Roboto Mono", monospace;	
     max-width: 500px;
     margin: 2rem auto;
     padding: 2rem;

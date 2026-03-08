@@ -31,7 +31,7 @@ write_directory = os.path.join(home, 'Git', 'exip', '_images', 'compressed')
 already_compressed_files = [f for f in listdir(write_directory) if isfile(join(write_directory, f))]
 
 for filename in os.listdir(read_directory):
-    if (filename.endswith('.jpg') or filename.endswith('.png')) and (filename not in already_compressed_files):
+    if filename.lower().endswith(('.jpg', '.png')) and (filename not in already_compressed_files):
         # Gather path info
         image_path = os.path.join(read_directory, filename)
         print(image_path)
