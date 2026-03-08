@@ -13,7 +13,7 @@ In 2022, the Fujifilm X100V exploded on social media and became almost impossibl
 
 Fast forward four years, and I found myself in Tokyo, Japan during the summer of 2025. A quick Reddit search revealed a shop that MIGHT have some in stock just a one-hour train ride from my hotel. On the off chance I might actually be able to buy one at retail pricing… off I went. I didn't call first because my Japanese is painful and my loathing of phone calls even more so.
 
-Fujiya Camera in Nakano was my destination, and upon my arrival—don't you know—they had not only multiple used X100V cameras, but also the new X100VI cameras below retail pricing.
+<a href="https://www.fujiya-camera.co.jp">Fujiya Camera</a> in Nakano was my destination, and upon my arrival—don't you know—they had not only multiple used X100V cameras, but also the new X100VI cameras below retail pricing.
 
 I almost threw my credit card at the nice Japanese gentleman.
 
