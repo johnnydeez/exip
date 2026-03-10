@@ -58,7 +58,7 @@ body {
 
 
 .pagination a:link, .pagination a:visited {
-	color: #1F99DE;
+	color: #cb5a4a;
 }
 
 #site-title {
@@ -80,6 +80,10 @@ body p {
 	padding-bottom: .3em;
 }
 
+p a:link, a:visited {
+  color: #cb5a4a;
+}
+
 img {
     max-height: 100%;
     max-width: 100%;
@@ -92,6 +96,7 @@ img.gif {
 
 h1, h2, h3 {
   font-family: "VT323", monospace;
+  color: #403c3b;
 }
 
 h1 {
