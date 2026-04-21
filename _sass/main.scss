@@ -56,7 +56,6 @@ body {
     margin-bottom: 2em;
 }
 
-
 .pagination a:link, .pagination a:visited {
 	color: #cb5a4a;
 }
@@ -215,12 +214,83 @@ nav .active-page {
 @media only screen and (max-width: 900px) {
     #post-archive h4 {
         font-size: 1em; 
-    }
+  }
 
     #post-archive .archive-date {
         white-space: nowrap; 
     }
 }
+
+
+/* BlockQuite Styles */
+.bq {
+    position: relative;
+    max-width: 540px;
+    padding: 1.75rem 2rem;
+    margin: 0 auto;
+
+  }
+ 
+/* Corner brackets */
+.bq::before, .bq::after,
+.bq .bq-br, .bq .bq-bl {
+    position: absolute;
+    content: '';
+    width: 26px;
+    height: 26px;
+  }
+.bq::before { top: 0;    left: 0;  border-top:    2px solid #c8a97a; border-left:   2px solid #c8a97a; border-radius: 6px 0 0 0; }
+.bq::after  { top: 0;    right: 0; border-top:    2px solid #c8a97a; border-right:  2px solid #c8a97a; border-radius: 0 6px 0 0; }
+.bq .bq-br  { bottom: 0; right: 0; border-bottom: 2px solid #c8a97a; border-right:  2px solid #c8a97a; border-radius: 0 0 6px 0; }
+.bq .bq-bl  { bottom: 0; left: 0;  border-bottom: 2px solid #c8a97a; border-left:   2px solid #c8a97a; border-radius: 0 0 0 6px; }
+ 
+/* Faded background quote mark */
+.bq-mark {
+    position: absolute;
+    top: -0.25rem;
+    left: 1rem;
+    font-family: 'VT323', monospace;
+    font-size: 9rem;
+    line-height: 1;
+    color: #c8a97a;
+    opacity: 0.42;
+    pointer-events: none;
+    user-select: none;
+}
+ 
+  /* Quote text */
+.bq blockquote {
+    margin: 0;
+    position: relative;
+}
+ 
+.bq blockquote p {
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
+    line-height: 1.2;
+    color: #2d2a29; /* replace with your muted text color */
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+ 
+/* Accent words */
+.bq blockquote p .bq-accent {
+    color: #a07840;
+}
+ 
+/* Citation */
+.bq cite {
+    display: block;
+    margin-top: 1rem;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: #888; /* replace with your muted text color */
+    font-style: normal;
+    text-transform: uppercase;
+}
+
 
 /* Contact Form Styles */
 
