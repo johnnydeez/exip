@@ -7,7 +7,7 @@ categories: [opinion, photography, cameras]
 
 ![fujifilm-xh2-header-image]({{ site.storageurl }}/fuji_xh2_headon_shot.jpg){:class="img-responsive" loading="lazy"}
 
-In 2025, I decided it was time to invest in a true hybrid camera. After filming a summer road trip across the US, I wanted a better one-camera solution for photos and videos. While I have loved my trusty Fujifilm X-T4, I knew it was time for a change.
+In 2025, I decided it was time to invest in a true hybrid camera. After filming a summer road trip across the US, I wanted a better one-camera solution for photos and videos. While I have loved my trusty [Fujifilm X-T4]({% post_url 2024-12-13-fujifilm-xt4-long-term-review  %}) , I knew it was time for a change.
 
 Given that I already had a set of Fujifilm X-series lenses, the most logical choice was to look within their APS-C sensor-size ecosystem. And up until that point, I had been mostly happy with my Fujifilm photography gear, evangelizing the system whenever I had the opportunity.
 
@@ -19,7 +19,7 @@ So, I hesitantly decided to purchase their flagship at the time, the Fujifilm X-
 
 So, when I bought the XH2, I told myself this:
 
-For me, the XH-2 will either mark the beginning of a new era of investment in Fujifilm gear or the end.
+**For me, the XH-2 will either mark the beginning of a new era of investment in Fujifilm gear or the end.**
 
 Read on, and you shall discover the outcome.
 
@@ -27,18 +27,18 @@ Read on, and you shall discover the outcome.
 
 ### Disclaimer
 
-I have a few positive things to say about this camera. I have more very negative things to say about it. I doubt anyone from the Fujifilm imaging division will ever read this. But if they did, I would want them to know how much I appreciate their hard work. No camera is perfect. Every single one is designed with limitations and compromises. In my view, the failings of this camera look like failings of leadership, not a lack of effort from the individual contributors who designed it.
+I do have some positive things to say about this camera. I have more very negative things to say about it. I doubt anyone from the Fujifilm imaging division will ever read this. But if they did, I would want them to know how much I appreciate their hard work. No camera is perfect. Every single one is designed with limitations and compromises. In my view, the failings of this camera look like failings of leadership, not a lack of effort from the individual contributors who designed it.
 
 _All photos in this article were shot with the X-H2, except the photos of the
 camera itself._
 
 ### The Perfect Hybrid Travel Camera
 
-On paper, the X-H2 was a perfect camera for me. And within the first few days of owning it, I found that I loved the images and classic Fuji rendering. What they have done with this sensor in terms of resolution, dynamic range, colors, grain, etc., is all absolutely incredible. And I think the image quality is something Fujifilm doesn’t get recognized enough for.
+On paper, the X-H2 was a perfect camera for me. And within the first few days of owning it, I found that I loved the images and classic Fuji rendering. What they have done with this sensor in terms of resolution, dynamic range, colors, grain, etc., is all absolutely incredible. And I think the image quality is something Fujifilm doesn’t get recognized enough for. In fact, it is so good that I have no complaints about it. The photos and videos that come out of the X-H2 are absolutely beautiful and stunning.
 
-When I opened the box, it truly felt like a special Fujifilm camera. The buttons felt better quality. The rubber grip material was stickier and more reassuring than the grips on my X-T4. The EVF looked great.
+When I opened the box, it truly felt like a special Fujifilm camera. The buttons felt high quality. The rubber grip material was stickier and more reassuring than the grips on my X-T4. The EVF looked great.
 
-The custom mod dial is awesome. Sure, the PASM method of camera interaction isn’t classically Fujifilm, but it is practical. And being able to swap the entire camera’s settings in less than a second with a single dial turn is incredibly fast and useful. C1 through C7 are also a _lot_ of custom settings. More than most cameras offer, and that is well-appreciated.
+The custom mode dial is awesome. Sure, the PASM method of camera interaction isn’t classically Fujifilm, but it is practical. And being able to swap the entire camera’s settings in less than a second with a single dial turn is incredibly fast and useful. C1 through C7 are also a _lot_ of custom settings. More than most cameras offer, and that is well-appreciated.
 
 In my view, it is a true hybrid camera. Switching from photos to videos to custom profiles of all kinds is easy and fast. 
 
@@ -60,19 +60,19 @@ This, however, is where the good times ended.
 
 ### The Reality of  Day-to-Day Use
 
-On paper, the Fujifilm X-H2 is a logical and competent hybrid camera. Unfortunately, it falls short in dozens of small ways, making it utterly frustrating and unusable for me as my main camera.
+On paper, the Fujifilm X-H2 is a well-equiped and competent hybrid camera. Unfortunately, it falls short in dozens of small ways, making it utterly frustrating and unusable for me as my main camera.
 
 Over the last year and a half, I have found myself disliking it more and more, with every new photography and video session leaving a slightly more bitter taste in my mouth.
 
 I have been on planet Earth for 42 years. For 26 of those years, I have been a photography enthusiast. I have used, loved, and felt indifferent about dozens of cameras. This is the first camera I have come to absolutely loathe.
 
-Things I REALLY dislike About the X-H2
+Things I REALLY dislike About the X-H2...
 
 ### Command Dial Hell
 
 Having shot with command dials (front and back) as the primary camera controls on Nikon, Canon, and Sony cameras, I cannot for the life of me understand what Fujifilm was thinking with their implementation of these controls on the X-H2.
 
-Out of the box, the dials change their behavior depending on whether you are in manual, ,aperture-priority, or shutter-priority modes. The front command dial adjusts aperture in ‘A’ priority, and the front dial also adjusts shutter speed in ‘S’ priority. In manual mode, the front dial controls the aperture, and the rear dial controls the shutter speed. Also, they are configurable and customizable. The dials can also be used for exposure compensation and ISO.
+Out of the box, the dials change their behavior depending on whether you are in manual, aperture-priority, or shutter-priority modes. The front command dial adjusts aperture in ‘A’ priority, and the front dial also adjusts shutter speed in ‘S’ priority. In manual mode, the front dial controls the aperture, and the rear dial controls the shutter speed. Also, they are configurable and customizable. The dials can also be used for exposure compensation and ISO.
 
 This means, by default, whether you are in A, S, P, M, or C1-C2. The purpose of the dials are constantly changing.  It’s a maddening design choice because it means you can't build any muscle memory with the camera. I spent hours digging through the manual, forums, and talking to AI to get the rear dial to always be shutter speed in every mode. And even then, it still never quite worked the way I wanted; it was an utter waste of time.
 
@@ -80,15 +80,9 @@ While I appreciate that they wanted to make these controls customizable. You can
 
 This might sound like a small gripe, but your muscle memory with a camera is extremely important for operation.  I don’t expect them to design their camera the same way every other manufacturer does, but I do expect them to follow their own conventions and build a consistent system.
 
-To put salt in the wound, they removed the press in buttons on the command dials… on their most expensive X camera. What the hell?
+To put salt in the wound, they removed the press in buttons on the command dials… on their most expensive X camera. What?
 
 <div class="image-grid">
-    <a
-        href="{{ site.storageurl }}/fuji_xh2_top.jpg"
-        target="_blank"
-        rel="noreferrer noopener"
-        style='background-image: url("{{ site.storageurl }}/fuji_xh2_top.jpg");'>
-    </a>
     <a
         href="{{ site.storageurl }}/fuji_xh2_left_controls.jpg"
         target="_blank"
@@ -96,10 +90,16 @@ To put salt in the wound, they removed the press in buttons on the command dials
         style='background-image: url("{{ site.storageurl }}/fuji_xh2_left_controls.jpg");'>
     </a>
     <a
-        href="{{ site.storageurl }}/fuji_xh2_headon_shot.jpg"
+        href="{{ site.storageurl }}/fuji_xh2_top.jpg"
         target="_blank"
         rel="noreferrer noopener"
-        style='background-image: url("{{ site.storageurl }}/fuji_xh2_headon_shot.jpg");'>
+        style='background-image: url("{{ site.storageurl }}/fuji_xh2_top.jpg");'>
+    </a>
+    <a
+        href="{{ site.storageurl }}/fuji_xh2_right_controls.jpg"
+        target="_blank"
+        rel="noreferrer noopener"
+        style='background-image: url("{{ site.storageurl }}/fuji_xh2_right_controls.jpg");'>
     </a>
 </div>
 
@@ -111,15 +111,15 @@ To change ISO, you press the ISO button, rotate the rear dial, then press again.
 
 This also reversed the shutter speed behavior, making the shutter speed dial go backward. I gave up. The whole implementation is just trash.
 
-Fujifilm, let me hold an ISO button and rock the dial back with a left-to-right menu that clearly shows me what I am doing, then, when I release it, take me back where I was… shooting. Also, as you adjust the ISO, your exposure meter is _hidden_. So, you cannot see how your ISO changes are affecting exposure. I am changing my ISO to alter my exposure. That’s the entire point. Did any actual photographers test this camera before it was released? These are all fixable software issues. There was no reason to re-invent the wheel here—literally.
+Fujifilm, let me hold an ISO button down and rock the dial back with a left-to-right menu that clearly shows me what I am doing, then, when I release it, take me back where I was… shooting. Also, as you adjust the ISO, your exposure meter is _hidden_. So, you cannot see how your ISO changes are affecting exposure (other than to just watch the image get brighter or darker). I am changing my ISO to alter my exposure. That’s the entire point. Did any actual photographers test this camera before it was released? These are all fixable software issues. There was no reason to re-invent the wheel here—literally.
 
-This might sound like me complaining or just nitpicking. But these are the controls for the exposure triangle: shutter speed, aperture, ISO. This _is_ the technical side of photography. It is the entire purpose of a camera. You have to get this right on a professional, flagship camera. I’m sorry, you just do.
+This might sound like me complaining or just nitpicking. **But these are the controls for the exposure triangle: shutter speed, aperture, ISO. This _is_ the technical side of photography. It is almost the entire purpose of a camera.** You have to get this right on a professional, flagship camera. I’m sorry, you just do.
 
 Ultimately, I ended up hating my physical interactions with the camera, preferring the X-T4 setup, where the top dials can be set for photography, and the two command dials can be used for video-only modes. It’s cleaner, simpler, and consistent. That’s pretty sad given that the X-H2 has all the potential to be _far_ more usable for hybrid shooting. But in practice, it is worse in almost every way.
 
 ![man-walking-in-alley]({{ site.storageurl }}/man_walking_alley.jpg){:class="img-responsive" loading="lazy"}
 
-### Oh The Menus
+### Nested Upon Nested Menus
 
 I have never used a camera with great menus or a fantastic UI. Some are better than others. Nikon and Canon do pretty well overall. The X-H2 is the worst offender in this regard of any Fujifilm camera I have used (X-T1, X-T2, X-E2, X-E3, X-T4, X-H2). I won’t spend much time on this except to say there are too many options, too many customizations, and no way to know what the items are or what they affect. Yes, you can read the manual. I am an adult with a life. I do not have time to memorize the manual. I can look stuff up in the manual, and I do. If referencing the manufacturer's documentation occasionally and regular use of the camera for 18 months doesn’t get me to a usable place, it’s a bad system.
 
@@ -168,7 +168,7 @@ The breaking point for me happened when I was standing on a street corner in Hir
 
 When it wakes up, all your settings are lost, and it reverts to the profile defaults.
 
-Why the hell does the camera have a sleep mode if it doesn’t preserve my session settings? If I want to save battery, I’ll just turn the camera off then, it’s effectively the same and boots faster. My friend’s Lumix G85 from 10 years ago can resume from sleep.
+Why the hell does the camera have a sleep mode if it doesn’t preserve my session settings? If I want to save battery, I’ll just turn the camera off then, it’s effectively the same and boots faster. My friend’s Lumix G85 from 10 years ago can resume from sleep correctly.
 
 My exposure and AF settings were all wrong. I missed the shot. That was the end for me.
 
@@ -182,7 +182,7 @@ $2,000 camera.
 
 I also sent this camera in for repair. Some bird poop got into one of the seals, damaging the foam. Fujifilm US received the camera and told me they would either quote me or fix it. Then, 3 weeks went by. I heard nothing from them. They shipped my camera back without repair. They also wiped all my settings with a firmware update that I didn’t ask for.
 
-Nice “QC” sticker on the bag. Quality Control—what?
+The camera returned with a, “QC” sticker on the bag. Quality Control—what?
 
 This is another inexcusable experience with the brand and camera.
 
@@ -194,7 +194,7 @@ So, I sold it. And I won’t be looking back.
 
 In my view, Fujifilm is interested in selling Instax lifestyle cameras, making medical equipment, and making money. And, from a business perspective, I can’t fault them for any of those things. It’s perfectly logical.
 
-Honestly, the cameras are mostly fine. Not as nice as they were. But I’ve lost faith in the brand and direction. EVF coatings are coming off, lugs are dropping out of the cameras, paint is chipping off, and poor service experiences. I’m not done with them, but I see Fujifilm as fun gear now, not serious photography equipment.
+Honestly, the cameras are mostly fine. Not as nice as they were. But I’ve lost faith in the brand and direction. EVF coatings are coming off, lugs are dropping out of the cameras, paint is chipping off, and poor service experiences seem commonplace. I may not be totally done with them, but I see Fujifilm as fun gear now, not serious photography equipment. No more new purchases from Fuji.
 
 I’m not a Fujifilm investor, I’m a photographer. And they seem to have lost their focus on being real players and contributors to the art form of photography. So, for now, I will be taking my business elsewhere.
 
