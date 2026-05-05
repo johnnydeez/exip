@@ -27,10 +27,15 @@ Read on, and you shall discover the outcome.
 
 ### Disclaimer
 
-I do have some positive things to say about this camera. I have more very negative things to say about it. I doubt anyone from the Fujifilm imaging division will ever read this. But if they did, I would want them to know how much I appreciate their hard work. No camera is perfect. Every single one is designed with limitations and compromises. In my view, the failings of this camera look like failings of leadership, not a lack of effort from the individual contributors who designed it.
+First, I'd like to say that this is just _my_ personal opinion and experience.
+There are plent of people who will buy this camera and absolutely love it, and
+that's great.
 
-_All photos in this article were shot with the X-H2, except the photos of the
-camera itself._
+Second, as a travel enthusiast and camera enthusiast, I just want to reiterate my love of Japan, the Japanese People, and the hard working folks who make the tools (cameras) that have enabled my photographic journey.
+
+I do have some positive things to say about this camera. Unfortunately, I have more very negative things to say about it. I doubt anyone from the Fujifilm imaging division will ever read this. But if they did, I would want them to know how much I appreciate their hard work. No camera is perfect. Every single one is designed with limitations and compromises. In my view, the failings of this camera look like failings of leadership, not a lack of effort from the individual contributors who designed it.
+
+_All photos in this article were shot with the X-H2, except the photos of the camera itself._
 
 ### The Perfect Hybrid Travel Camera
 
@@ -109,13 +114,13 @@ Speaking of dials, that brings me to ISO.
 
 To change ISO, you press the ISO button, rotate the rear dial, then press again. The ISO menu that appears during this operation lists them vertically instead of horizontally. It isn’t clear which direction to turn the dial to increase or decrease the ISO value. In guessing, one might expect that turning the rear dial to the right would increase the ISO, since turning it to the right in other modes increases the shutter speed. Nope, it works in the opposite. I mess it up constantly, so eventually I went digging through the menus to see if I could change it. “Fantastic!”, I thought. It can be customized. So, I inverted it.
 
-This also reversed the shutter speed behavior, making the shutter speed dial go backward. I gave up. The whole implementation is just trash.
+This also reversed the shutter speed behavior, making the shutter speed dial go backward. I gave up. The whole implementation is bad.
 
 Fujifilm, let me hold an ISO button down and rock the dial back with a left-to-right menu that clearly shows me what I am doing, then, when I release it, take me back where I was… shooting. Also, as you adjust the ISO, your exposure meter is _hidden_. So, you cannot see how your ISO changes are affecting exposure (other than to just watch the image get brighter or darker). I am changing my ISO to alter my exposure. That’s the entire point. Did any actual photographers test this camera before it was released? These are all fixable software issues. There was no reason to re-invent the wheel here—literally.
 
 This might sound like me complaining or just nitpicking. **But these are the controls for the exposure triangle: shutter speed, aperture, ISO. This _is_ the technical side of photography. It is almost the entire purpose of a camera.** You have to get this right on a professional, flagship camera. I’m sorry, you just do.
 
-Ultimately, I ended up hating my physical interactions with the camera, preferring the X-T4 setup, where the top dials can be set for photography, and the two command dials can be used for video-only modes. It’s cleaner, simpler, and consistent. That’s pretty sad given that the X-H2 has all the potential to be _far_ more usable for hybrid shooting. But in practice, it is worse in almost every way.
+Ultimately, I ended up frustrated with my physical interactions with the camera, preferring the X-T4 setup, where the top dials can be set for photography, and the two command dials can be used for video-only modes. It’s cleaner, simpler, and consistent. That’s pretty sad given that the X-H2 has all the potential to be _far_ more usable for hybrid shooting. But in practice, it is worse in almost every way.
 
 ![man-walking-in-alley]({{ site.storageurl }}/man_walking_alley.jpg){:class="img-responsive" loading="lazy"}
 
