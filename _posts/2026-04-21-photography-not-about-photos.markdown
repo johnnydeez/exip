@@ -15,25 +15,25 @@ But, up until this rainy May morning on the California coast, I had felt I was s
 
 
 {% include blockquote.html text="I would encourage anyone interested in  <span class='bq-accent'>photography</span> not to worry too much about style. It will happen
-on its own." %}
+all on its own." %}
 
 Looking back now, I can see that this was less about improving my photography and more about my need for an outlet, for creativity, for an escape from my difficulties at work and with relationships. It was about being outside an office, about taking the world in.
 
 And in many ways, that hasn't really changed. In fact, as I'm saying this, I am now realizing how little the actual photographs mattered.
 
-<b>In truth, I think learning photography was the anecdote I needed for the general turbulence in my
+<b>In truth, I think learning photography was the antidote I needed for the general turbulence in my
 life.</b> It was a way for me to cope with the parts of my life and myself that
 weren't working.
 
 As the years have gone on, the skill-building aspect has become less important. I'm happy with my photos. Sure, they are always improving, and I want to continue that journey. However, it's barely about that now.
 
- Every week I spend dozens of hours behind a computer screen. Photography has largely become a way for me to re-engage with the physical world outside without having to make an plans or negociate schedules with any other people. It's just me and my camera, wandering around and looking at things.
+ Every week I spend dozens of hours behind a computer screen. Photography has largely become a way for me to re-engage with the physical world outside without having to make any plans or negotiate schedules with any other people. It's just me and my camera, wandering around and looking at things.
 
 It has become a meditative practice.
 
-I'm reminded of an evening I spent with my camera on the side of a mountain in <a target="_blank" href="https://www.nps.gov/seki/index.htm">Kings Canyon National Park</a>. A quiet drive up a mostly abandoned road with only maybe an hour of daylight left. Every tree, every fern, every leaf was taking on that incredible yellow gold from the low angle of the sun.
+I'm reminded of an evening I spent with my camera on the side of a mountain in <a target="_blank" href="https://www.nps.gov/seki/index.htm">Kings Canyon National Park</a>. A quiet drive up a mostly abandoned road with only maybe an hour of daylight left. Every tree, every fern, every leaf was taking on that incredible yellow-gold from the low angle of the sun.
 
-The place was absolutely still, not even the suggestion of a breeze. I passed a Mule deer on the way up. I stopped my truck right in front of it, and we just sat there and looked at each other for a while; I have no idea how long. Eventually, I parked my vehicle. For an hour, I wandered around the hillside, taking photos of bark, leaves, moss, pine trees, and a lake. And none of them were any good. Not a single one.
+The place was absolutely still, not even the suggestion of a breeze. I passed a mule deer on the way up. I stopped my truck right in front of it, and we just sat there and looked at each other for a while; I have no idea how long. Eventually, I parked my vehicle. For an hour, I wandered around the hillside, taking photos of bark, leaves, moss, pine trees, and a lake. And none of them were any good. Not a single one.
 
 <div class="image-grid">
     <a

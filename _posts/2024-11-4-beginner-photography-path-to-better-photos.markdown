@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginner Photography - The Counter-Intuitive Path to Better Photos
+title: Beginner Photography - The Counterintuitive Path to Better Photos
 author: john
 catagories: [Photography, Creativity]
 ---
@@ -15,7 +15,7 @@ I will also never forget what it was like to get those early images back (this w
 
 ![tree-bark]({{ site.storageurl }}/tree_bark.jpg){:class="img-responsive" loading="lazy"}
 
-**What I did not know at that time, was that I would endure that mix of emotions almost every time I reviewed images from any photographic session. This was to be my experience, for not weeks or months—but years of my life.** It was so daunting, in fact, that I quit taking photographs multiple times. And I think it's why a lot of beginner photographers quit. 
+**What I did not know at that time was that I would endure that mix of emotions almost every time I reviewed images from any photographic session. This was to be my experience, for not weeks or months—but years of my life.** It was so daunting, in fact, that I quit taking photographs multiple times. And I think it's why a lot of beginner photographers quit. 
 Becoming frustrated, disenchanted, and disappointed with my images caused me to stop making them. And it was only after multi-month or multi-year breaks that I would come back to photography.
 
 However, in my experience, it was those years of frustration and poor results that eventually created the conditions for me to produce photographs I was happy with. So, it's ironic that the very process I found frustrating was the same process that helped me get where I wanted to go. Perhaps this seems transparently obvious to you, but it certainly wasn't to me. 
@@ -26,7 +26,7 @@ However, in my experience, it was those years of frustration and poor results th
 Let me tell you a two-paragraph story. It's related, I promise.
 I was a fitness instructor for a number of years, and something I would see my clients often frustrated with was the slow speed of their progress. Sometimes, this was due to diet or genetics, but often, it was something else: volume of training.
 
-The clients that progressed the slowest were usually the ones who spent the least amount of time training. The ones who excelled and broke their own records week after week and month after month were the people who we saw in the gym multiple times every week. The direct correlation of how much time people spent working out and how they progressed, became quite obvious to me.
+The clients who progressed the slowest were usually the ones who spent the least amount of time training. The ones who excelled and broke their own records week after week and month after month were the people who we saw in the gym multiple times every week. The direct correlation of how much time people spent working out and how they progressed became quite obvious to me.
 
 
 <div class="image-grid">

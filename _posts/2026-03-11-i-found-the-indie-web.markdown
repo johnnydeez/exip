@@ -7,9 +7,9 @@ categories: [opinion, technology]
 
 ![broken-computer-pixel-art]({{ site.storageurl }}/broken_computer_pixel_art.jpg){:class="img-responsive" loading="lazy"}
 
-Something  insidious has been happening over the last few decades.  Not in secret, so much, but slow enough to go unnoticed: The Internet has turned into a steaming pile of garbage.
+Something  insidious has been happening over the last few decades.  Not in secret, so much, but slowly enough to go unnoticed: The Internet has turned into a steaming pile of garbage.
 
-<a target="_blank" href="https://pluralistic.net/2023/01/21/potemkin-ai/">Enshittification</a> is rampant on every platform, degrading the experience of almost every web-app, site, and service.
+<a target="_blank" href="https://pluralistic.net/2023/01/21/potemkin-ai/">Enshittification</a> is rampant on every platform, degrading the experience of almost every web app, site, and service.
 
 Twitter has turned into X, and in my view, a platform that was somewhat hostile and crawling with bad behavior is now an utterly toxic (and useless) pile of horse turds.
 
@@ -17,7 +17,7 @@ Additionally, when I signed up for Instagram 15 years ago, it was a place to sha
 
 For the most part, I left social media quite a few years ago. The accounts are still there, but I try to avoid them at all costs.
 
-I wish that was the worst of it. I wish I could say that just leaving social media was sufficient to avoid being constantly harassed or annoyed on the Internet. But, doing almost anything online now goes something like this:
+I wish that were the worst of it. I wish I could say that just leaving social media was sufficient to avoid being constantly harassed or annoyed on the Internet. But, doing almost anything online now goes something like this:
 
 I visit a site because I need to accomplish something. I am halted first by an utterly confusing message about my cookies and my privacy. And, I am left reading through legalese that I don't understand, to make a selection I don't care about, regarding a use of data that is utterly opaque to me. This is all presented in a completely non-standard way, and I'm mad about it because this doesn't seem worth my time to actually parse. So, I just click one of the options... because I was trying to do something. 
 
@@ -71,29 +71,29 @@ And, it's not gone.
 
 For the last week, I have been spending my evenings "browsing the Internet". Not scrolling through TikTok (actually, I have never done that). Not deleting hostile YouTube comments or feeling bad about my life because I'm not married to a beautiful Instagram model.
 
-I am surfing the web. Reading about how an engineer from Iceland made a <a target="_blank" href="https://alexharri.com/blog/ascii-rendering">image to ASCII art rendering program</a>. I'm looking at a unique web design from a college student in Japan—somewhere. I'm learning what it's like to lose power during a cold winter in Lithuania. I'm going through a series of posts from someone who is dealing with chronic illness. I have no idea what I am going to find or read next.
+I am surfing the web. Reading about how an engineer from Iceland made an <a target="_blank" href="https://alexharri.com/blog/ascii-rendering">image-to-ASCII art rendering program</a>. I'm looking at a unique web design from a college student in Japan—somewhere. I'm learning what it's like to lose power during a cold winter in Lithuania. I'm going through a series of posts from someone who is dealing with chronic illness. I have no idea what I am going to find or read next.
 
 It's relaxing. It's inspiring. It's interesting. It's creative. And, I love it.
 
 You can surf the Indie Web too! I will help you get started, right now. 
 
-First, go get a cup of tea or a glass of wine or some... lemon-water or whatever.
+First, go get a cup of tea or a glass of wine or some... lemon water or whatever.
 
 <a target="_blank" href="https://neocities.org/browse">Neocities</a> - Start here. Kinda the hub of this revival movement. Mostly HTML pages.
 
-Here are a few random web-rings I found with lots of links. I haven't been
+Here are a few random webrings I found with lots of links. I haven't been
 to most of them, but it's a good place to start.
 
 <p><a target="_blank" href="https://melonland.net/surf-club">Melon Land Surf Club</a></p>
 <p><a target="_blank" href="https://hotlinewebring.club/">Hotline Webring</a></p>
 
-There are thousdans of lists like this. I just happen to stumble upon these.
+There are thousands of lists like this. I just happened to stumble upon these.
 Explore, and I'm sure you will find more.
 
 
 ### Doing My Part
 
-Inspired by these experiences, I am changing this blog to be more unique. To be my own voice again, instead of just articles that will get search traffic. I am slowly re-designing it to be fun and less sterile. And, I will, over time, add more and more links to things and people that I think are interesting. I have never had analytics and pop-ups on this site because I hate that crap, so no need to fix that. But I can do more. So, I will.
+Inspired by these experiences, I am changing this blog to be more unique. To be my own voice again, instead of just articles that will get search traffic. I am slowly redesigning it to be fun and less sterile. And, I will, over time, add more and more links to things and people that I think are interesting. I have never had analytics and pop-ups on this site because I hate that crap, so no need to fix that. But I can do more. So, I will.
 
 Finally, I would like to encourage you to opt out of the enshittified Internet. If the platform sucks, the people are annoying, and the experience makes you feel less human, just leave. It's the strongest voice you have. Take your attention elsewhere. There are hundreds of thousands of wonderful tiny places for you to enjoy on the web. 
 

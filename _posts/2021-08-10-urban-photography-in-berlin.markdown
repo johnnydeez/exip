@@ -12,7 +12,7 @@ Well, I have been back in the U.S. for about a week now. Finally got some time t
 
 Not much to say except that Berlin is a visual mess for someone like me. I tend to gravitate towards a lot of simplicity and subject isolation in my photos. That was very difficult to achieve there. Consequently, I felt like I had to adapt my style a bit. 
 
-In a way, this happens anywhere you go with a camera. Every city, person and landscape presents different challenges. 
+In a way, this happens anywhere you go with a camera. Every city, person, and landscape presents different challenges. 
 
 Berlin just has a lot going on, pretty much everywhere you look. 
 

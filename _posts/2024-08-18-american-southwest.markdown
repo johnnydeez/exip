@@ -20,10 +20,10 @@ However, that knowledge, that itch in the back of my mind that's always remindin
 
 The second benefit is that I find I am generally more productive. Moving around from place to place means I often do not have any friends in close proximity. And while this is a substantial downside to life on the road, there is a silver lining. Most of my time is my own. Once the work is done, there isn't much else to occupy me except whatever projects or activities I choose to take on. As a result, I write more, read more, draw more, photograph more, and exercise more. That kind of thing.
 
-And lastly, I almost always lose weight while travelling. I think in part because I leave behind the standard American diet. And in part because I don't have a car. So I walk. Everywhere.
+And lastly, I almost always lose weight while traveling. I think in part because I leave behind the standard American diet. And in part because I don't have a car. So I walk. Everywhere.
 
-### Traveling At Home
-Anyway, with my Thailand visa expiring it was time to head back to the USA for a while. However, with no fixed location to return to, my truck is now the closest thing I have to a house. **And so, my circumstances conspired to send me on a road trip across the US, driving across the American Southwest for two months.**
+### Traveling at Home
+Anyway, with my Thailand visa expiring, it was time to head back to the USA for a while. However, with no fixed location to return to, my truck is now the closest thing I have to a house. **And so, my circumstances conspired to send me on a road trip across the US, driving across the American Southwest for two months.**
 
 I decided to use this opportunity to practice my video/cinematography skills a bit, as I find they are quite lacking in comparison to my photographic abilities. You would think the two mediums would be quite similar, but I don't find that is the case. 
 

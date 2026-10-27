@@ -8,7 +8,7 @@ catagories: [Art, Creativity]
 
 ![old-man-beard-painting]({{ site.storageurl }}/old_man_beard_painting.jpg){:class="img-responsive" loading="lazy"}
 
-Having spent the last 10 years or so refining my photography skills. And, having reached a point where I am fairly pleased with the photos I am able to take, I have begun a new endeavor: drawing and painting.
+Having spent the last 10 years or so refining my photography skills, and having reached a point where I am fairly pleased with the photos I am able to take, I have begun a new endeavor: drawing and painting.
 
 While this experience has been a tremendous amount of fun, it hasn't been without its difficulties and frustrations. In fact, something became very clear in my early art attempts.
 
@@ -31,9 +31,9 @@ I won't record an account of every instance in which this has been useful, but m
 
 ![robot-woman-sketch]({{ site.storageurl }}/robot_woman_sketch.jpg){:class="img-responsive" loading="lazy"}
 
-This has worked very well for me as a process because it has increased the volume of art I am making. Which, I know from my photography endeavors will help me improve faster. And it has given me something to show for my efforts after only an hour or so of work. Instead of spending days at a time wondering if the thing I am drawing will end up being any good.
+This has worked very well for me as a process because it has increased the volume of art I am making. Which, I know from my photography endeavors, will help me improve faster. And it has given me something to show for my efforts after only an hour or so of work. Instead of spending days at a time wondering if the thing I am drawing will end up being any good.
 
-I'm sure this process isn't for all artists. You, of course, will have to decide who you want to emulate and what of their techniques are useful to you. But for me, this strategy has produced a lot of leaps forward in my art. 
+I'm sure this process isn't for all artists. You, of course, will have to decide who you want to emulate and which of their techniques are useful to you. But for me, this strategy has produced a lot of leaps forward in my art. 
 
 Hopefully, it's something that could work for you, too.
 

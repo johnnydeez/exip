@@ -9,10 +9,10 @@ I've written this post a half-dozen times.
 
 I just don't really know where to start or—how to. My time in Thailand was unlike any other travel experience I've had.
 
-Detailing it here feels like it would somehow cheapen the experience. So, instead, I'll keep things brief.. 
+Detailing it here feels like it would somehow cheapen the experience. So, instead, I'll keep things brief. 
 
 ![lightning-over-bangkok]({{ site.storageurl }}/lightning_over_bkk.gif){:class="gif" loading="lazy"}
-I sat 37 floors above Bangkok, watching a storm roll in over The Bay of Thailand.
+I sat 37 floors above Bangkok, watching a storm roll in over the Gulf of Thailand.
 
 <div class="image-grid">
     <a 
@@ -43,7 +43,7 @@ I met someone.
 ![bts-station]({{ site.storageurl }}/bts_layers.jpg){:class="img-responsive" loading="lazy"}
 I said goodbye to someone.
 
-![taffic-terminal21]({{ site.storageurl }}/t21_traffic.jpg){:class="img-responsive" loading="lazy"}
+![traffic-terminal21]({{ site.storageurl }}/t21_traffic.jpg){:class="img-responsive" loading="lazy"}
 I learned a lot about myself. About my life.
 
 ![china-town-scooter-bkk]({{ site.storageurl }}/china_town_scooter.jpg){:class="img-responsive" loading="lazy"}

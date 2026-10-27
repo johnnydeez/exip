@@ -48,15 +48,15 @@ My next opinion will probably be a bit controversial. I don't expect many people
 
 ![bison-in-grand-canyon-national-park]({{ site.storageurl }}/bison_in_the_grand_canyon.jpg){:class="img-responsive" loading="lazy"}
 
-First, I find all of Fuji cameras to be a bit lackluster when it comes to build quality. Sure, they feel ok in the hand and I've never had one break down on me. But, for me, they lack a certain robustness and premium feel that I enjoyed with my Nikon cameras. It's an unfair comparison in a way, because Nikon is probably best-in-class in the build/feel department. I've never owned a Leica. But, there it is.
+First, I find all of Fuji's cameras to be a bit lackluster when it comes to build quality. Sure, they feel ok in the hand and I've never had one break down on me. But, for me, they lack a certain robustness and premium feel that I enjoyed with my Nikon cameras. It's an unfair comparison in a way, because Nikon is probably best-in-class in the build/feel department. I've never owned a Leica. But, there it is.
 
-The Fuji X series cameras are well made. But command dials feel plastic-like and unsatisfying to click. The buttons everywhere on the camera are just... fine. And, while I commend them for the quality and feel of the top dials (shutter, exposure comp, iso), everything else just kind of lets the camera down a bit. Now, I much prefer Fuji's cameras over the Panasonic cameras I have owned in terms of look and feel. But, I still can't give Fujifilm 5 out of 5 stars here.
+The Fuji X series cameras are well made. But command dials feel plastic-like and unsatisfying to click. The buttons everywhere on the camera are just... fine. And, while I commend them for the quality and feel of the top dials (shutter, exposure comp, ISO), everything else just kind of lets the camera down a bit. Now, I much prefer Fuji's cameras over the Panasonic cameras I have owned in terms of look and feel. But, I still can't give Fujifilm 5 out of 5 stars here.
 
 The ergonomics of the X-T4 feel decent. The grip is larger than some of the other X cameras and I am a happy flip screen user. Of course, the top dials are lovely to use and make operating the camera enjoyable. They also allow you to see all of your settings while the camera is off. So, I can shoot with this camera all day and then some, leaving it off most of the time and still being able to see my settings or update them. 
 It's not as comfortable as literally any other camera with a deeper grip, but for its form factor, I feel it is a reasonable compromise.
 
 ### Autofocus
-Nothing to write home about here in the autofocus department. With single point AF-S (which is what I shoot in 90% of the time) everything is good. Focus the camera, re-frame the shot, take the shot. Works great. Very fast and very reliable.
+Nothing to write home about here in the autofocus department. With single-point AF-S (which is what I shoot in 90% of the time) everything is good. Focus the camera, re-frame the shot, take the shot. Works great. Very fast and very reliable.
 
 ![grand-canyon-man-taking-a-photo]({{ site.storageurl }}/photography_grand_canyon.jpg){:class="img-responsive" loading="lazy"}
 
@@ -70,15 +70,15 @@ One thing I will say is that changing the AF-C Custom Settings to number 2 (Igno
 
 ![grand-canyon-north-rim]({{ site.storageurl }}/grand_canyon_north_rim.jpg){:class="img-responsive" loading="lazy"}
 
-Anyway, all that to say if you're taking portraits for fun or of friends and you want to use the autofocus tracking, it works decent. If you're depending on it for professional wedding work or something... yeah, I'm not so sure. People do it. And, I'm not a wedding photographer. But, I'm not sure I'd depend on it.
+Anyway, all that to say if you're taking portraits for fun or of friends and you want to use the autofocus tracking, it works decently. If you're depending on it for professional wedding work or something... yeah, I'm not so sure. People do it. And, I'm not a wedding photographer. But, I'm not sure I'd depend on it.
 
 ### Should You Buy It?
 And now for the big question. The question you are probably here to answer. Should you buy one? 
 
 ![man-standing-hot-creek-california]({{ site.storageurl }}/man_standing_hot_creek.jpg){:class="img-responsive" loading="lazy"}
 
-Honestly, yes. I've been very happy with my Fujifilm X-T4 and it has served me reliably. Delivering high quality images with no complaints. 
-I shoot landscapes, urban environments, night photos and travel photography. And for me, it has been a fantastic companion. It's small enough to enjoy carrying around and 'professional' enough to justify using it over my cell phone. What has kept me with Fujifilm for the last 6 years is the versatility of their APS-C X system. It's not the biggest sensor, but the lenses are pretty small. It's not the cheapest system but it's also not eye-watering expensive. It's not the best image quality you can get, but it's very good. It's not the lightest camera, but it's far from heavy. You can't get the shallow depth of field, but you can get a shallower depth of field than on a micro-four-thirds camera.
+Honestly, yes. I've been very happy with my Fujifilm X-T4 and it has served me reliably, delivering high-quality images with no complaints. 
+I shoot landscapes, urban environments, night photos and travel photography. And for me, it has been a fantastic companion. It's small enough to enjoy carrying around and 'professional' enough to justify using it over my cell phone. What has kept me with Fujifilm for the last 6 years is the versatility of their APS-C X system. It's not the biggest sensor, but the lenses are pretty small. It's not the cheapest system, but it's also not eye-wateringly expensive. It's not the best image quality you can get, but it's very good. It's not the lightest camera, but it's far from heavy. You can't get the shallow depth of field, but you can get a shallower depth of field than on a Micro Four Thirds camera.
 
 For me, Fuji just checks most of the boxes. It's an easy camera to take around the world and for the most part, it stays out of my way and lets me take the photos I enjoy. Which, after all, is what it's all about.
 

@@ -29,7 +29,7 @@ Where is that, you say? That is also what we said when I found it randomly on th
 
 This excursion included the discovery of melon soda (the best soda flavor on Earth, IMHO), a pointless yet exhilarating walk across a river, and an equally pointless and slightly less exhilarating hike to the base of the mountains (which we could not hike into because they were... closed. I guess.)
 
-![walking-in-tsurugi]({{ site.storageurl }}/thomas_base_mountain.gif){:class="gif" loading="lazy"}
+![thomas-at-base-of-mountain]({{ site.storageurl }}/thomas_base_mountain.gif){:class="gif" loading="lazy"}
 
 Traveling to these random towns and villages became a thing for us. I don't know why we both found it so interesting. Maybe it was just being in a place that most foreigners don't go. Additionally, I find it fascinating to see how people actually live outside of Japan's sprawling concrete landscapes and electric cities.
 
@@ -45,7 +45,7 @@ I spent my final two weeks in Japan eating ramen and taking lots of night photos
 
 If you ever get the chance to visit Japan, go.
 
-![latern-and-utilities-on-wall]({{ site.storageurl }}/lantern_and_utility.jpg){:class="img-responsive" loading="lazy"}
+![lantern-and-utilities-on-wall]({{ site.storageurl }}/lantern_and_utility.jpg){:class="img-responsive" loading="lazy"}
 
 <div class="image-grid">
     <a 
